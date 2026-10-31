@@ -1,25 +1,22 @@
 <div align="center">
 
-  <!-- Typing SVG Banner -->
+  <!-- Trending Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,24,30&height=220&section=header&text=Devashish%20Sharma&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20Systems%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Devashish Sharma Banner" />
+
+  <!-- Typing SVG Animation -->
   <a href="https://github.com/devashish0407">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Devashish+Sharma;Software+Engineer+%26+Systems+Builder;Agentic+AI+%E2%80%A2+Deep+Learning+%E2%80%A2+Full-Stack;Exploring+Distributed+Systems+%26+Cloud" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Computer Science Engineer</strong> focused on <strong>Agentic AI</strong>, <strong>Computer Vision</strong>, <strong>Distributed Systems</strong>, and <strong>Cloud Architecture</strong>.
+    <strong>Computer Science Engineer</strong> focused on <strong>Agentic AI</strong>, <strong>Computer Vision</strong>, <strong>Distributed Systems</strong>, and <strong>High-Performance Backends</strong>.
   </p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/devashish-sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:devashish0716@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://leetcode.com/u/devashish0407/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" /></a>
-  </p>
-
-  <!-- Visitor & Status Counters -->
+  <!-- Profile Status & Counters -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=devashish0407&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Open%20To-SDE%20Roles%20%26%20Collaborations-2ea44f?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-00c853?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Open%20To-SDE%20Roles%20%26%20Collaborations-2ea44f?style=flat-square" alt="Open To" />
   </p>
 
 </div>
@@ -35,8 +32,8 @@ OS        : Arch Linux / Windows 11
 Degree    : B.Tech in Computer Science & Engineering (2022 - 2026)
 Focus     : Agentic AI, Real-Time Vision, Distributed Web3, Cloud-Native Systems
 Current   : Building Autonomous Incident Diagnostics & Multimodal ML Pipelines
-Cert      : AWS Certified Cloud Practitioner (IAM, VPC, EC2, S3)
-Rank      : Trailhead Expeditioner | HackerRank 5-Star (Java, C++) | LeetCode 1600+
+Languages : Python, C++, TypeScript, JavaScript, Java, Solidity, C, PHP
+Stack     : PyTorch, React, FastAPI, Node.js, Docker, PostgreSQL, OpenCV
 Passions  : Clean Architecture, Low-Latency APIs, Systems Optimization & Open Source
 Status    : Available for Software Development Engineer (SDE) Opportunities
 ```
@@ -170,12 +167,26 @@ Status    : Available for Software Development Engineer (SDE) Opportunities
 
 ---
 
-### 🏆 Certifications & Recognitions
+### 🔮 Engineering in Motion
 
-- 🎖️ **AWS Certified Cloud Practitioner** — Amazon Web Services *(IAM, VPC, EC2, S3, Cloud Security)*
-- 🌟 **Salesforce Certified CRM Developer** — Trailhead Expeditioner Rank *(Apex, SOQL, Flow Automation)*
-- 🥇 **HackerRank Certified** — Software Engineer, React Developer, SQL Specialist *(5-Star in Java & C++)*
-- 💡 **LeetCode Contender** — 100+ Data Structures & Algorithms Solved *(1600+ Contest Rating)*
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Cyberpunk Developer Animation" />
+        <br />
+        <sub><em>Focus. Architect. Build. Repeat.</em></sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quotes" width="100%" />
+        <br /><br />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=380&lines=%3E_++git+checkout+-b+autonomous-agent;%3E_++docker+compose+up+-d+--build;%3E_++python+pipeline.py+--live;%3E_++solidity+deploy+--network+mainnet" alt="Terminal Commands SVG" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
@@ -204,5 +215,7 @@ SELECT status, motivation FROM developer WHERE name = 'Devashish Sharma';
 -- Output: [ "Always Learning", "Always Shipping", "Ready to Build Impactful Software" ]
 ```
 
-</div>
+  <!-- Dynamic Waving Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7,24,30&height=120&section=footer" width="100%" alt="Footer Wave" />
 
+</div>
